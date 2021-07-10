@@ -14,7 +14,7 @@
   "keywords": [
     "nodejs"
   ],
-  "author": "Manav Misra",
+  "author": "Dylan Barstow",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.30.0",
